@@ -8,5 +8,5 @@ Guessing the rate that users will give to each movie by a linear regression modu
 ## Titanic
 Will this passenger survive from the titanic?
 #
-## ShoppersPurchasing
+## Shoppers Purchasing
 Logistic Regression module to forecast that will shopper purchase their shop or not.
